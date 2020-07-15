@@ -1,3 +1,5 @@
+(This repository contains some code I wrote with my school friends a really long time ago! Some my first ever programs!)
+
 SPACECOW GAMING's [RESIST]
 
 Contributors:
